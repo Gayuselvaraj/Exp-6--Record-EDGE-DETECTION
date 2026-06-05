@@ -139,20 +139,22 @@ plt.show()
 ## Output
 
 ###  Sobel Edge Detector
-<img width="838" height="691" alt="image" src="https://github.com/user-attachments/assets/a26ef730-45b9-4115-a059-fc24ceac0fd7" />
+<img width="1048" height="617" alt="image" src="https://github.com/user-attachments/assets/ecf7e9b4-4002-43cf-9806-16031ef32795" />
+
+
 
 ###  Prewitt Edge Detector
-<img width="845" height="684" alt="image" src="https://github.com/user-attachments/assets/001cc94d-b419-4364-8b68-f76869e79537" />
 
+<img width="1032" height="623" alt="image" src="https://github.com/user-attachments/assets/678bef34-8ab3-4e08-b15b-4a65669853e2" />
 
 ###  Roberts Edge Detector
-<img width="876" height="717" alt="image" src="https://github.com/user-attachments/assets/527d4ac4-7ead-4017-8c7b-3a39bdb58bff" />
+<img width="1069" height="572" alt="image" src="https://github.com/user-attachments/assets/5dd5d731-60b7-47a0-b621-c57760692a81" />
 
 ###  Laplacian Edge Detector
-<img width="593" height="480" alt="image" src="https://github.com/user-attachments/assets/4f1c302f-47ff-48c2-893f-65129ecee6bd" />
+<img width="519" height="605" alt="image" src="https://github.com/user-attachments/assets/0623b43f-44b5-4431-880b-34a8abb8a1aa" />
 
 ###  Canny Edge Detector
-<img width="595" height="495" alt="image" src="https://github.com/user-attachments/assets/2f954137-a91f-4414-9dc1-1bab8208e310" />
+<img width="680" height="614" alt="image" src="https://github.com/user-attachments/assets/f85e8948-b31c-4510-8cd0-8de471a28c6a" />
 
 ## Result
 
